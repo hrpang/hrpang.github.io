@@ -507,7 +507,7 @@
   color: #f00;
 }
 .nav-left {
-  width: 120px;
+  width: 200px;
   height: 100%;
   background: #2a2935;
   box-shadow: inset -15px 0 15px -15px #222;
@@ -633,7 +633,7 @@
 }
 .nav-left ul li>div.active {
   color: #020202;
-  box-shadow: inset 165px 0 0 #fff;
+  box-shadow: inset 200px 0 0 #fff;
 }
 .nav-left ul li>div>.fold {
   left: 4px;
